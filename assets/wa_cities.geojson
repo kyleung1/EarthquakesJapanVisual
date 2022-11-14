@@ -1,0 +1,320 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Bellingham",
+          "Population": "92,289",
+          "County": "Whatcom"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.47741474353258,
+            48.74556448520323
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Seattle",
+          "Population": "733,919",
+          "County": "King"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.33629812749908,
+            47.59725074520023
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Renton",
+          "Population": "105,179",
+          "County": "King"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.20459243926601,
+            47.470447590653606
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Tacoma",
+          "Population": "219,205",
+          "County": "Pierce"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.44177563143052,
+            47.24231697892185
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kent",
+          "Population": "134,835",
+          "County": "King"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.22831075848246,
+            47.374174729080494
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Olympia",
+          "Population": "55,919",
+          "County": "Thurston"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.90191102422969,
+            47.035832433585625
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Yakima",
+          "Population": "96,578",
+          "County": "Yakima"
+        },
+        "geometry": {
+          "coordinates": [
+            -120.51110444721078,
+            46.59764759277357
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Bremerton",
+          "Population": "44,122",
+          "County": "Kitsap"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.63152190339494,
+            47.553741655387626
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Port Angeles",
+          "Population": "20,134",
+          "County": "Clallam"
+        },
+        "geometry": {
+          "coordinates": [
+            -123.42845742906805,
+            48.1172700158601
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Redmond",
+          "Population": "76,354",
+          "County": "King"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.12267084110442,
+            47.672742936979176
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Oak Harbor",
+          "Population": "24,709",
+          "County": "Island"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.64552958829316,
+            48.30098020044403
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Bellevue",
+          "Population": "149,440",
+          "County": "King"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.19264740400372,
+            47.616099624593375
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Tukwila",
+          "Population": "21,615",
+          "County": "King"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.26032093670035,
+            47.46229806564219
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Edmonds",
+          "Population": "42,758",
+          "County": "Snohomish"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.37850964965105,
+            47.81114402810843
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Everett",
+          "Population": "110,812",
+          "County": "Snohomish"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.20088616836273,
+            47.96686231336261
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Centralia",
+          "Population": "18,629",
+          "County": "Lewis"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.95823921841617,
+            46.72725756219643
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Forks",
+          "Population": "3,385",
+          "County": "Clallam"
+        },
+        "geometry": {
+          "coordinates": [
+            -124.38021984080939,
+            47.9526518059582
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Wenatchee",
+          "Population": "35,405",
+          "County": "Chelan"
+        },
+        "geometry": {
+          "coordinates": [
+            -120.31463499106334,
+            47.42391505942288
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Spokane",
+          "Population": "229,071",
+          "County": "Spokane"
+        },
+        "geometry": {
+          "coordinates": [
+            -117.40313894071606,
+            47.653594677416066
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Omak",
+          "Population": "4,975",
+          "County": "Okanogan"
+        },
+        "geometry": {
+          "coordinates": [
+            -119.54781131047575,
+            48.413714629799244
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Pullman",
+          "Population": "32,827",
+          "County": "Whitman"
+        },
+        "geometry": {
+          "coordinates": [
+            -117.18336686042252,
+            46.72662799676897
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }

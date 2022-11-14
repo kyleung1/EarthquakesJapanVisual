@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Washington Cities List</title>
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.js"></script>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      #container {
+        display: flex;
+        height: 100vh;
+        flex-direction: row;
+        align-items: stretch;
+      }
+
+      #side-panel {
+        flex-basis: 500px;
+        overflow-y: scroll;
+      }
+
+      #map {
+        flex-grow: 1;
+      }
+
+      button {
+        margin-bottom: 10px;
+      }
+
+      table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 100%;
+        border: 1px solid #ddd;
+      }
+
+      th,
+      td {
+        text-align: left;
+        padding: 16px;
+      }
+
+      tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+
+      @media screen and (max-width: 1024px) {
+        #side-panel {
+          display: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main id="container">
+      <div id="map"></div>
+      <div id="side-panel">
+        <h2>Washington Cities List</h2>
+        <button>Sort by Population</button>
+
+        <table>
+          <tr>
+            <th>Name</th>
+            <th>Population</th>
+            <th>County</th>
+          </tr>
+        </table>
+      </div>
+    </main>
+    <script src="index.js"></script>
+  </body>
+  <html></html>
+</html>
